@@ -1,0 +1,119 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "statictest.cpp"
+        ],
+        "directory": "/home/jkammath/Desktop/Abook",
+        "file": "statictest.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "complexity6.cpp"
+        ],
+        "directory": "/home/jkammath/Desktop/Abook",
+        "file": "complexity6.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "llist.cpp"
+        ],
+        "directory": "/home/jkammath/Desktop/Abook",
+        "file": "llist.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "complexity8.cpp"
+        ],
+        "directory": "/home/jkammath/Desktop/Abook",
+        "file": "complexity8.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "complexity7.cpp"
+        ],
+        "directory": "/home/jkammath/Desktop/Abook",
+        "file": "complexity7.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "pattern1.cpp"
+        ],
+        "directory": "/home/jkammath/Desktop/Abook",
+        "file": "pattern1.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "complexity2.cpp"
+        ],
+        "directory": "/home/jkammath/Desktop/Abook",
+        "file": "complexity2.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "complexity4.cpp"
+        ],
+        "directory": "/home/jkammath/Desktop/Abook",
+        "file": "complexity4.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "complexity1.cpp"
+        ],
+        "directory": "/home/jkammath/Desktop/Abook",
+        "file": "complexity1.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "address_book_main.cpp"
+        ],
+        "directory": "/home/jkammath/Desktop/Abook",
+        "file": "address_book_main.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "complexity3.cpp"
+        ],
+        "directory": "/home/jkammath/Desktop/Abook",
+        "file": "complexity3.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "complexity5.cpp"
+        ],
+        "directory": "/home/jkammath/Desktop/Abook",
+        "file": "complexity5.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "address_book.cpp"
+        ],
+        "directory": "/home/jkammath/Desktop/Abook",
+        "file": "address_book.cpp"
+    }
+]
